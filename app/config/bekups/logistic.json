@@ -1,0 +1,28 @@
+{
+  "sales" : [
+    {
+	  "id" : "96df",
+	  "product" : "i3ek",
+      "size" : 3,
+      "date" : ["30","4","20015"],
+      "time" : ["16","48"],
+      "client" : "4d4flt"
+    },
+    {
+	  "id" : "96d3",
+	  "product" : "i3ek",
+      "size" : 1,
+      "date" : ["30","4","20015"],
+      "time" : ["16","48"],
+      "client" : "4dbqat"
+    },
+    {
+	  "id" : "94df",
+	  "product" : "i3ek",
+      "size" : 3,
+      "date" : ["30","4","20015"],
+      "time" : ["16","48"],
+      "client" : "4d6flt"
+    }
+  ]
+}

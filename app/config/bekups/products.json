@@ -1,0 +1,36 @@
+{
+  "stock":[
+	{
+	  "id" : "i3ek",
+	  "name" : "iphone 12 pro max",
+	  "descritions" : "Lorem impsum dolor met asali",
+	  "size" : 13,
+	  "price": 250,
+	  "sales": 54,
+	  "coments":[
+		{
+		  "id" : "#2583",
+		  "country" : "Brazil",
+		  "coment" : "lorem lorem",
+		  "star" : 5
+		}
+	  ]
+	},
+	{
+	  "id" : "i3fs",
+	  "name" : "Samsung Galaxy S22",
+	  "descritions" : "Lorem impsum dolor met asali",
+	  "size" : 60,
+	  "price": 220,
+	  "sales": 58,
+	  "coments":[
+		{
+		  "id" : "#2583",
+		  "country" : "USA",
+		  "coment" : "lorem lorem",
+		  "star" : 3
+		}
+	  ]
+	}
+  ]
+}
